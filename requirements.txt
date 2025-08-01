@@ -5,6 +5,4 @@ datasets
 pandas
 numpy
 peft
-os
-random
 bitsandbytes
