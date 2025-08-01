@@ -22,6 +22,8 @@ for easier access to GPUs.
 2. Upload `Cuey.py` and `dataset.jsonl` to your Colab session.
 3. Install dependencies:
    !pip install -r requirements.txt
+4. Make sure that you go to Runtime > Change runtime type > and change the runtime type to Python 3 and the hardware accelerator to some sort of GPU
+   (most commonly the T4-GPU)
 
 Run:
 !python cuey.py
