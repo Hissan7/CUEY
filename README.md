@@ -19,7 +19,7 @@ for easier access to GPUs.
 
 ### Run on Google Colab 
 1. Open Google Colab.
-2. Upload `Cuey.py`, `dataset.jsonl`, and 'requirements.txt' to your Colab session.
+2. Upload 'cuey.py', 'dataset.jsonl', and 'requirements.txt' to your Colab session.
 3. Install dependencies:
    !pip install -r requirements.txt
 4. Make sure that you go to Runtime > Change runtime type > and change the runtime type to Python 3 and the hardware accelerator to some sort of GPU
