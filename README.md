@@ -24,5 +24,5 @@ for easier access to GPUs.
    !pip install -r requirements.txt
 
 Run:
-!python Cuey.py
+!python cuey.py
 
