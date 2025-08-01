@@ -1,8 +1,0 @@
-transformers
-torch
-openai
-datasets
-pandas
-numpy
-peft
-bitsandbytes
