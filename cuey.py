@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1wTBksjYnd4kZE5iAVXCTRi-iO3UIq7cV
 """
 
-!jupyter nbconvert --ClearOutputPreprocessor.enabled=True --inplace Cuey.ipynb
-
 #STEP 1 : Install the dependencies (already done)
 
 # STEP 2: Import Libraries
