@@ -7,3 +7,4 @@ numpy
 peft
 os
 random
+bitsandbytes
